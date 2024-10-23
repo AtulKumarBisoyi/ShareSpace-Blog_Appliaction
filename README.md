@@ -15,3 +15,7 @@ ShareSpace is a blog application that allows users to share their thoughts, expe
 - **Create, Read, Update, Delete (CRUD) Operations**: Users can create new blog posts, read all posts, update their existing posts, and delete posts they no longer wish to display.
 - **Responsive Design**: The application is designed to be mobile-friendly and accessible on various devices.
 - **Commenting System**: Users can comment on blog posts, facilitating interaction and discussion.
+
+## Demo
+Watch the demo video to see the ShareSpace Blog Application in action:
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1CPIxItNNqdQskLq5QVmbB5YXrWVESd_R/view?usp=drive_link)
